@@ -79,7 +79,7 @@ The underlying imaging data and SHiVAi output (`pvs_stats.csv`) are not
 redistributed here. The resulting `total_pvs_volume`,
 `pvs_volume_centrumsemiovale`, and `pvs_volume_basalganglia` values used
 as input to `analysis/stats.R` are available from the corresponding
-author of the manuscript on reasonable request.
+author on reasonable request.
 
 ## Statistical analysis data
 
